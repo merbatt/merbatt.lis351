@@ -5,13 +5,30 @@
 <style>
 h1 {
 	color: seagreen;
-	font-family: serif;
+	font-family: sans-serif, serif;
 	font-size: 100%;
 }
 p {
 	color: rebeccapurple;
-	font-family: sans-serif;
+	font-family: sans-serif, serif;
 	font-size: 100%;
 }
+ol,ul {
+	list-style: none;
+}
+nav ul li {
+	float: left;
+	width: 20%;
+}
+body {
+    background-color: lightpink;
+}
+body, html {
+	margin-left:2%;
+	margin-right:2%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
 </style>
 </head>
