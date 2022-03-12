@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>CSS Style Sheet2</title>
+<style>
+h1 {
+	color: rebeccapurple;
+	font-family: sans-serif, serif;
+	font-size: 100%;
+}
+p {
+	color: seagreen;
+	font-family: sans-serif, serif;
+	font-size: 100%;
+}
+ol,ul {
+	list-style: none;
+}
+nav ul li {
+	float: left;
+	width: 20%;
+}
+body {
+    background-color: lightsteelblue;
+}
+body, html {
+	margin-left:2%;
+	margin-right:2%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
+</style>
+</head>
